@@ -69,7 +69,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="bg-gray-100 dark:bg-gray-800 p-6 text-center">
         <p className="text-gray-600 dark:text-gray-300">
-          OpenSourceTutor - Tech for Social Good Initiative
+          OpenSourceTutor - Open Source Music Education Initiative
         </p>
       </footer>
     </div>
