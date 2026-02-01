@@ -16,13 +16,6 @@ export default function About() {
             with limited funding for arts programs.
           </p>
 
-          <h2 className="text-2xl font-bold mb-4">Tech for Social Good</h2>
-          <p className="mb-6">
-            Built with cutting-edge technology (Gemini AI, React, TypeScript, PostgreSQL), 
-            this platform makes professional-level music instruction accessible to everyone, 
-            regardless of economic background.
-          </p>
-
           <h2 className="text-2xl font-bold mb-4">Features</h2>
           <ul className="list-disc pl-6 mb-6 space-y-2">
             <li>Real-time feedback on jazz harmony and blue note usage</li>
